@@ -1,0 +1,11 @@
+﻿Id	Code	Name	Grade	AttackType	BaseDamage	Range	ProjectileSpeed	Radius	Cooldown	MaxDurability	Price	Prefab	IconKey
+1	eq_common_01	투척 단검	Common	Straight	7	5.0	15.0	0	4.0	5	250000	Equipment/Projectiles/ThrowingDagger	Icon/dagger
+2	eq_common_02	투척 도끼	Common	Straight	7	8.0	20.0	0	5.0	5	250000	Equipment/Projectiles/ThrowingAxe	Icon/axe
+3	eq_common_03	투석탄	Common	Parabola	12	6.0	10.0	0	6.0	5	250000	Equipment/Projectiles/StoneShot	Icon/stone
+4	eq_common_04	화살비	Common	Area	10	4.0	0	2.0	8.0	5	250000	Equipment/Projectiles/ArrowRain	Icon/bow
+5	eq_common_05	투창	Common	Straight	7	7.0	18.0	0	5.0	5	250000	Equipment/Projectiles/Javelin	Icon/spear
+6	eq_rare_01	얼음 파편	Rare	Straight	15	8.0	22.0	0	6.0	3	0	Equipment/Projectiles/IceShard	Icon/icelance
+7	eq_rare_02	화염구	Rare	Parabola	18	9.0	12.0	0	7.0	3	0	Equipment/Projectiles/Fireball	Icon/fire
+8	eq_rare_03	낙뢰	Rare	Area	20	0	0	3.5	9.0	3	0	Equipment/Projectiles/Lightning	Icon/magic
+9	eq_legendary_01	운석 낙하	Legendary	Area	30	0	0	4.5	12.0	2	0	Equipment/Projectiles/Meteor	Icon/breath
+10	eq_legendary_02	황금 창	Legendary	Straight	25	12.0	30.0	0	10.0	2	0	Equipment/Projectiles/GoldenSpear	Icon/goldlance

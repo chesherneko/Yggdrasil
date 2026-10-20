@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12c81cd8c2f45e886673ebd4bc758d6, type: 3}
+  m_Name: TilePrefabs
+  m_EditorClassIdentifier: Assembly-CSharp::BlueMarble.Board.Builder.Scriptable.TilePrefabMap
+  prefabs:
+  - Type: 0
+    Dir: 0
+    Prefab: {fileID: 693495614957019962, guid: 327e3437765b37c44a497b7603fee95f, type: 3}
+  - Type: 0
+    Dir: 1
+    Prefab: {fileID: -8636408229188991568, guid: 4e5ad91aa8db0f74da911faa5a4e9f2e, type: 3}
+  - Type: 0
+    Dir: 2
+    Prefab: {fileID: 8045086179085231561, guid: 0c4cebefd763a4647a4a3ad0fa17c280, type: 3}
+  - Type: 0
+    Dir: 3
+    Prefab: {fileID: 4141215031897307508, guid: e07d1c8a2803a514eaaaa45e96b6b069, type: 3}
+  - Type: 1
+    Dir: 0
+    Prefab: {fileID: 1777819210738190642, guid: 2361b15ead385bc4e86701b1cc38a57b, type: 3}
+  - Type: 1
+    Dir: 2
+    Prefab: {fileID: 3989916825944519677, guid: ea3738c602b3ab943ace0b61339fca61, type: 3}
+  - Type: 1
+    Dir: 4
+    Prefab: {fileID: 2957042352605916824, guid: 1da670764d6e96f4eaea3fb20a5a9f80, type: 3}
+  - Type: 2
+    Dir: 5
+    Prefab: {fileID: 6540556759434249479, guid: 9b0a28ea538ddea468ed12089fdff3ec, type: 3}

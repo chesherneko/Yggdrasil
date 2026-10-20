@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: 4325b245fedce064b8045334a909b44a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7891507752972906424
+    second: valhala_0
+  - first:
+      213: -6622263257225836108
+    second: valhala_1
+  - first:
+      213: -2926300858025536298
+    second: valhala_2
+  - first:
+      213: 6831106841708412267
+    second: valhala_3
+  - first:
+      213: -4202435208995941378
+    second: valhala_4
+  - first:
+      213: -584456855826533959
+    second: valhala_5
+  - first:
+      213: -3329883140180612504
+    second: valhala_6
+  - first:
+      213: -8407338541894257255
+    second: valhala_7
+  - first:
+      213: -3400048643865189418
+    second: valhala_8
+  - first:
+      213: -2020407809743191325
+    second: valhala_9
+  - first:
+      213: 8179284059289166291
+    second: valhala_10
+  - first:
+      213: 5878068729979629998
+    second: valhala_11
+  - first:
+      213: 3557118141112552369
+    second: valhala_12
+  - first:
+      213: 2715074897953191618
+    second: valhala_13
+  - first:
+      213: -8752251768553446849
+    second: valhala_14
+  - first:
+      213: 3476778337937698353
+    second: valhala_15
+  - first:
+      213: -3752475946947505994
+    second: valhala_16
+  - first:
+      213: 93641465240817745
+    second: valhala_17
+  - first:
+      213: -3185375109023262861
+    second: valhala_18
+  - first:
+      213: 6544620850418869565
+    second: valhala_19
+  - first:
+      213: 5907576851420526146
+    second: valhala_20
+  - first:
+      213: -2886208990529442762
+    second: valhala_21
+  - first:
+      213: -5019260806194510578
+    second: valhala_22
+  - first:
+      213: -6605314916816891238
+    second: valhala_23
+  - first:
+      213: 425354485603978556
+    second: valhala_24
+  - first:
+      213: -6199377278304332920
+    second: valhala_25
+  - first:
+      213: -726259599540419092
+    second: valhala_26
+  - first:
+      213: -7674702069092428873
+    second: valhala_27
+  - first:
+      213: -6697404276588131221
+    second: valhala_28
+  - first:
+      213: 3364524796757033107
+    second: valhala_29
+  - first:
+      213: 4069781542979384489
+    second: valhala_30
+  - first:
+      213: -7621995023708522479
+    second: valhala_31
+  - first:
+      213: -2282859882225551385
+    second: valhala_32
+  - first:
+      213: 5815017686136060471
+    second: valhala_33
+  - first:
+      213: 7403969385080355579
+    second: valhala_34
+  - first:
+      213: 1272781130136557769
+    second: valhala_35
+  - first:
+      213: 3984743018900228592
+    second: valhala_36
+  - first:
+      213: -4478719865584115153
+    second: valhala_37
+  - first:
+      213: -9133432582539090427
+    second: valhala_38
+  - first:
+      213: 2142462935768925270
+    second: valhala_39
+  - first:
+      213: -6297771116727439203
+    second: valhala_40
+  - first:
+      213: 8972509697167740415
+    second: valhala_41
+  - first:
+      213: 8469407567008718759
+    second: valhala_42
+  - first:
+      213: 8178413376681236104
+    second: valhala_43
+  - first:
+      213: 4523667069922578291
+    second: valhala_44
+  - first:
+      213: -6936027253239246025
+    second: valhala_45
+  - first:
+      213: -4079225822838737840
+    second: valhala_46
+  - first:
+      213: 2183355928021202548
+    second: valhala_47
+  - first:
+      213: -3109913584764840803
+    second: valhala_48
+  - first:
+      213: -1545350040433666363
+    second: valhala_49
+  - first:
+      213: 1722128787357382211
+    second: valhala_50
+  - first:
+      213: -6348805566440993803
+    second: valhala_51
+  - first:
+      213: -2174581480814288828
+    second: valhala_52
+  - first:
+      213: -4421876344507713843
+    second: valhala_53
+  - first:
+      213: 9053623657575179685
+    second: valhala_54
+  - first:
+      213: -1073302437445342044
+    second: valhala_55
+  - first:
+      213: -6313621395257728072
+    second: valhala_56
+  - first:
+      213: -5678754855148042204
+    second: valhala_57
+  - first:
+      213: 3269647843807403973
+    second: valhala_58
+  - first:
+      213: 368394486739066476
+    second: valhala_59
+  - first:
+      213: -4099782753173068653
+    second: valhala_60
+  - first:
+      213: -2636949959894706866
+    second: valhala_61
+  - first:
+      213: -4038204115779119153
+    second: valhala_62
+  - first:
+      213: -733155845768523243
+    second: valhala_63
+  - first:
+      213: -3777838249153068694
+    second: valhala_64
+  - first:
+      213: 4600120901549758411
+    second: valhala_65
+  - first:
+      213: 824311452470889050
+    second: valhala_66
+  - first:
+      213: 6050487717384415519
+    second: valhala_67
+  - first:
+      213: 1808762714627959537
+    second: valhala_68
+  - first:
+      213: 4792320141487882451
+    second: valhala_69
+  - first:
+      213: 7499520702176576000
+    second: valhala_70
+  - first:
+      213: -6585315243903423390
+    second: valhala_71
+  - first:
+      213: -31576355578407235
+    second: valhala_72
+  - first:
+      213: -1759132711062649855
+    second: valhala_73
+  - first:
+      213: 2603495353499890449
+    second: valhala_74
+  - first:
+      213: 5773076448945798589
+    second: valhala_75
+  - first:
+      213: -6761987459007575306
+    second: valhala_76
+  - first:
+      213: 2725556708132229466
+    second: valhala_77
+  - first:
+      213: 1840604269653692165
+    second: valhala_78
+  - first:
+      213: 6451271489971442694
+    second: valhala_79
+  - first:
+      213: 8096716909710771584
+    second: valhala_80
+  - first:
+      213: -1374280455156296733
+    second: valhala_81
+  - first:
+      213: 6364146625908610608
+    second: valhala_82
+  - first:
+      213: 754911631961667433
+    second: valhala_83
+  - first:
+      213: 4239046287860681597
+    second: valhala_84
+  - first:
+      213: -8823988731929000968
+    second: valhala_85
+  - first:
+      213: 129696787234044081
+    second: valhala_86
+  - first:
+      213: 7280892210686748056
+    second: valhala_87
+  - first:
+      213: 7160491255574629150
+    second: valhala_88
+  - first:
+      213: -6484548021794591367
+    second: valhala_89
+  - first:
+      213: -6056452378320416520
+    second: valhala_90
+  - first:
+      213: -3438018664507878133
+    second: valhala_91
+  - first:
+      213: 8447165902876201517
+    second: valhala_92
+  - first:
+      213: -6130747636600654337
+    second: valhala_93
+  - first:
+      213: 5644803110718349121
+    second: valhala_94
+  - first:
+      213: -2988968828819136185
+    second: valhala_95
+  - first:
+      213: 6486923052133630451
+    second: valhala_96
+  - first:
+      213: 1429904214035621863
+    second: valhala_97
+  - first:
+      213: -6051061833044680144
+    second: valhala_98
+  - first:
+      213: 5020849846965489427
+    second: valhala_99
+  - first:
+      213: -6776113614327949713
+    second: valhala_100
+  - first:
+      213: 5201194220958587487
+    second: valhala_101
+  - first:
+      213: 7959425518503344688
+    second: valhala_102
+  - first:
+      213: 1327264147368699474
+    second: valhala_103
+  - first:
+      213: -3439854661020478949
+    second: valhala_104
+  - first:
+      213: 962135791993901358
+    second: valhala_105
+  - first:
+      213: -211475726460689143
+    second: valhala_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: valhala_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 194
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe0368d74448d60800000000000000
+      internalID: 7891507752972906424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ceef57aef814a0800000000000000
+      internalID: -6622263257225836108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49773bfd0b367d0800000000000000
+      internalID: -2926300858025536298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d35c2da77fcce50800000000000000
+      internalID: 6831106841708412267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d3306173fda5c0800000000000000
+      internalID: -4202435208995941378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fae1169793e7f0800000000000000
+      internalID: -584456855826533959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 419
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae8fd2de0e9c1d0800000000000000
+      internalID: -3329883140180612504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 364
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99531ffd322235b80800000000000000
+      internalID: -8407338541894257255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 133
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ed5bc5c990d0d0800000000000000
+      internalID: -3400048643865189418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e205d63dc116f3e0800000000000000
+      internalID: -2020407809743191325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 356
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d122f62487a28170800000000000000
+      internalID: 8179284059289166291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea174c7dd58139150800000000000000
+      internalID: 5878068729979629998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb8c195a1c6d5130800000000000000
+      internalID: 3557118141112552369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 373
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6741f0c32eda520800000000000000
+      internalID: 2715074897953191618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 52
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32669e4361c98680800000000000000
+      internalID: -8752251768553446849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eac834a7fff3030800000000000000
+      internalID: 3476778337937698353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 295
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01ff9f1078cebc0800000000000000
+      internalID: -3752475946947505994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501def9a6eac4100800000000000000
+      internalID: 93641465240817745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3771c4617364bc3d0800000000000000
+      internalID: -3185375109023262861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 354
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e4d21df923da50800000000000000
+      internalID: 6544620850418869565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246bd30c8ddebf150800000000000000
+      internalID: 5907576851420526146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 364
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c24f3073022f7d0800000000000000
+      internalID: -2886208990529442762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e054cb3d3e0085ab0800000000000000
+      internalID: -5019260806194510578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 373
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925a8164153554a0800000000000000
+      internalID: -6605314916816891238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4b0aa6a927e500800000000000000
+      internalID: 425354485603978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 292
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883da0a063367f9a0800000000000000
+      internalID: -6199377278304332920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce50daafdbecbe5f0800000000000000
+      internalID: -726259599540419092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b35ac6612bfd7590800000000000000
+      internalID: -7674702069092428873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 497
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c48c87b4a0e03a0800000000000000
+      internalID: -6697404276588131221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39042b40a7131be20800000000000000
+      internalID: 3364524796757033107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43abe20c4ca7830800000000000000
+      internalID: 4069781542979384489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118fe04b8eb393690800000000000000
+      internalID: -7621995023708522479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 370
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b4ff3807a150e0800000000000000
+      internalID: -2282859882225551385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73af0c8b6c713b050800000000000000
+      internalID: 5815017686136060471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf4958dee20c660800000000000000
+      internalID: 7403969385080355579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c81c92c1b3d9a110800000000000000
+      internalID: 1272781130136557769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 260
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f904c2e9a6ac4730800000000000000
+      internalID: 3984743018900228592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22af53f20468d1c0800000000000000
+      internalID: -4478719865584115153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50667c905778f3180800000000000000
+      internalID: -9133432582539090427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65482f650be8bbd10800000000000000
+      internalID: 2142462935768925270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 150
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90febe4982d998a0800000000000000
+      internalID: -6297771116727439203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4e6bf702c48c70800000000000000
+      internalID: 8972509697167740415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5f813f41698570800000000000000
+      internalID: 8469407567008718759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886536f82af8f7170800000000000000
+      internalID: 8178413376681236104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 13
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f0ed09b3b47ce30800000000000000
+      internalID: 4523667069922578291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331f3a36f74ebf90800000000000000
+      internalID: -6936027253239246025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 32
+        width: 386
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b81f0abda367c0800000000000000
+      internalID: -4079225822838737840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 568
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47672fb06a6dc4e10800000000000000
+      internalID: 2183355928021202548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941ee9521e57d4d0800000000000000
+      internalID: -3109913584764840803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 296
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d05a6350dd8ae0800000000000000
+      internalID: -1545350040433666363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 515
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34639e3020b36e710800000000000000
+      internalID: 1722128787357382211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 443
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb034889f284e7a0800000000000000
+      internalID: -6348805566440993803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 603
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ebe42aa552d1e0800000000000000
+      internalID: -2174581480814288828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 533
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc63aec84e652a2c0800000000000000
+      internalID: -4421876344507713843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 596
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a567d79fbee4ad70800000000000000
+      internalID: 9053623657575179685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 225
+        width: 274
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac6287ae1dda11f0800000000000000
+      internalID: -1073302437445342044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 15
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b36b51cac28168a0800000000000000
+      internalID: -6313621395257728072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428406ceb820131b0800000000000000
+      internalID: -5678754855148042204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 509
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf13cef36f106d20800000000000000
+      internalID: 3269647843807403973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 17
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e5b4775dccc1500800000000000000
+      internalID: 368394486739066476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a8dcbe45aa17c0800000000000000
+      internalID: -4099782753173068653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45defd8bfba76bd0800000000000000
+      internalID: -2636949959894706866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_62
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 82
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7177480ca65f7c0800000000000000
+      internalID: -4038204115779119153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_63
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51257f784ae43d5f0800000000000000
+      internalID: -733155845768523243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_64
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 160
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a610954d02c629bc0800000000000000
+      internalID: -3777838249153068694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_65
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 205
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc719b46699e6df30800000000000000
+      internalID: 4600120901549758411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_66
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 227
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a40dc06ea807b00800000000000000
+      internalID: 824311452470889050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_67
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 124
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ef88a586a7f350800000000000000
+      internalID: 6050487717384415519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 262
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faee501b140a1910800000000000000
+      internalID: 1808762714627959537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 257
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c55327cdb18240800000000000000
+      internalID: 4792320141487882451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_70
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 107
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0024cee2856a31860800000000000000
+      internalID: 7499520702176576000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ceb291da24c94a0800000000000000
+      internalID: -6585315243903423390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_72
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 89
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6927ec871df8ff0800000000000000
+      internalID: -31576355578407235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_73
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104475c9e1e4697e0800000000000000
+      internalID: -1759132711062649855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_74
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 314
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bdb7ea39712420800000000000000
+      internalID: 2603495353499890449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_75
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 108
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd769871761e1050800000000000000
+      internalID: 5773076448945798589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa053a8b389822a0800000000000000
+      internalID: -6761987459007575306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 259
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51976ba26f13d520800000000000000
+      internalID: 2725556708132229466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_78
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 52
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f86c0d4d32b8910800000000000000
+      internalID: 1840604269653692165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_79
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 199
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6045a556d35878950800000000000000
+      internalID: 6451271489971442694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_80
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085853291215d5070800000000000000
+      internalID: 8096716909710771584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_81
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 12
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e395a015339dece0800000000000000
+      internalID: -1374280455156296733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_82
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03698c733adf15850800000000000000
+      internalID: 6364146625908610608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_83
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b2eb212cf97a00800000000000000
+      internalID: 754911631961667433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_84
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 118
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bcf5ea32e14da30800000000000000
+      internalID: 4239046287860681597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_85
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 190
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f38253fff4ea8580800000000000000
+      internalID: -8823988731929000968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_86
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 273
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b838937a86ccc100800000000000000
+      internalID: 129696787234044081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89564e9c3ecea0560800000000000000
+      internalID: 7280892210686748056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_88
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b01d9ebdc2f5360800000000000000
+      internalID: 7160491255574629150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_89
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 108
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da8f74ee14206a0800000000000000
+      internalID: -6484548021794591367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_90
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 102
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0542f76a823fba0800000000000000
+      internalID: -6056452378320416520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_91
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 150
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0558d27d34b940d0800000000000000
+      internalID: -3438018664507878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_92
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 136
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225ab732ac5a3570800000000000000
+      internalID: 8447165902876201517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 259
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53ad0b1853beaa0800000000000000
+      internalID: -6130747636600654337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 43
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1361958e565e40800000000000000
+      internalID: 5644803110718349121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_95
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 207
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412589bfac0586d0800000000000000
+      internalID: -2988968828819136185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_96
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 214
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c7bf852e260a50800000000000000
+      internalID: 6486923052133630451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_97
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76d648e4a08d310800000000000000
+      internalID: 1429904214035621863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_98
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 125
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032a27f925f460ca0800000000000000
+      internalID: -6051061833044680144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 211
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc3fe8554ada540800000000000000
+      internalID: 5020849846965489427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_100
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 249
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665b44b19866f1a0800000000000000
+      internalID: -6776113614327949713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_101
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a1d0c369a5e2840800000000000000
+      internalID: 5201194220958587487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_102
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3296965f857e60800000000000000
+      internalID: 7959425518503344688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_103
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 190
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256e50bb5b36b6210800000000000000
+      internalID: 1327264147368699474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_104
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 98
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1217e2396e2340d0800000000000000
+      internalID: -3439854661020478949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_105
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 208
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215c7bb7613a5d00800000000000000
+      internalID: 962135791993901358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: valhala_106
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90561bd72ffa01df0800000000000000
+      internalID: -211475726460689143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      valhala_0: 7891507752972906424
+      valhala_1: -6622263257225836108
+      valhala_10: 8179284059289166291
+      valhala_100: -6776113614327949713
+      valhala_101: 5201194220958587487
+      valhala_102: 7959425518503344688
+      valhala_103: 1327264147368699474
+      valhala_104: -3439854661020478949
+      valhala_105: 962135791993901358
+      valhala_106: -211475726460689143
+      valhala_11: 5878068729979629998
+      valhala_12: 3557118141112552369
+      valhala_13: 2715074897953191618
+      valhala_14: -8752251768553446849
+      valhala_15: 3476778337937698353
+      valhala_16: -3752475946947505994
+      valhala_17: 93641465240817745
+      valhala_18: -3185375109023262861
+      valhala_19: 6544620850418869565
+      valhala_2: -2926300858025536298
+      valhala_20: 5907576851420526146
+      valhala_21: -2886208990529442762
+      valhala_22: -5019260806194510578
+      valhala_23: -6605314916816891238
+      valhala_24: 425354485603978556
+      valhala_25: -6199377278304332920
+      valhala_26: -726259599540419092
+      valhala_27: -7674702069092428873
+      valhala_28: -6697404276588131221
+      valhala_29: 3364524796757033107
+      valhala_3: 6831106841708412267
+      valhala_30: 4069781542979384489
+      valhala_31: -7621995023708522479
+      valhala_32: -2282859882225551385
+      valhala_33: 5815017686136060471
+      valhala_34: 7403969385080355579
+      valhala_35: 1272781130136557769
+      valhala_36: 3984743018900228592
+      valhala_37: -4478719865584115153
+      valhala_38: -9133432582539090427
+      valhala_39: 2142462935768925270
+      valhala_4: -4202435208995941378
+      valhala_40: -6297771116727439203
+      valhala_41: 8972509697167740415
+      valhala_42: 8469407567008718759
+      valhala_43: 8178413376681236104
+      valhala_44: 4523667069922578291
+      valhala_45: -6936027253239246025
+      valhala_46: -4079225822838737840
+      valhala_47: 2183355928021202548
+      valhala_48: -3109913584764840803
+      valhala_49: -1545350040433666363
+      valhala_5: -584456855826533959
+      valhala_50: 1722128787357382211
+      valhala_51: -6348805566440993803
+      valhala_52: -2174581480814288828
+      valhala_53: -4421876344507713843
+      valhala_54: 9053623657575179685
+      valhala_55: -1073302437445342044
+      valhala_56: -6313621395257728072
+      valhala_57: -5678754855148042204
+      valhala_58: 3269647843807403973
+      valhala_59: 368394486739066476
+      valhala_6: -3329883140180612504
+      valhala_60: -4099782753173068653
+      valhala_61: -2636949959894706866
+      valhala_62: -4038204115779119153
+      valhala_63: -733155845768523243
+      valhala_64: -3777838249153068694
+      valhala_65: 4600120901549758411
+      valhala_66: 824311452470889050
+      valhala_67: 6050487717384415519
+      valhala_68: 1808762714627959537
+      valhala_69: 4792320141487882451
+      valhala_7: -8407338541894257255
+      valhala_70: 7499520702176576000
+      valhala_71: -6585315243903423390
+      valhala_72: -31576355578407235
+      valhala_73: -1759132711062649855
+      valhala_74: 2603495353499890449
+      valhala_75: 5773076448945798589
+      valhala_76: -6761987459007575306
+      valhala_77: 2725556708132229466
+      valhala_78: 1840604269653692165
+      valhala_79: 6451271489971442694
+      valhala_8: -3400048643865189418
+      valhala_80: 8096716909710771584
+      valhala_81: -1374280455156296733
+      valhala_82: 6364146625908610608
+      valhala_83: 754911631961667433
+      valhala_84: 4239046287860681597
+      valhala_85: -8823988731929000968
+      valhala_86: 129696787234044081
+      valhala_87: 7280892210686748056
+      valhala_88: 7160491255574629150
+      valhala_89: -6484548021794591367
+      valhala_9: -2020407809743191325
+      valhala_90: -6056452378320416520
+      valhala_91: -3438018664507878133
+      valhala_92: 8447165902876201517
+      valhala_93: -6130747636600654337
+      valhala_94: 5644803110718349121
+      valhala_95: -2988968828819136185
+      valhala_96: 6486923052133630451
+      valhala_97: 1429904214035621863
+      valhala_98: -6051061833044680144
+      valhala_99: 5020849846965489427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

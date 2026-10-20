@@ -1,0 +1,9 @@
+{
+  "SalaryAmount": 300000,
+  "PrisonActionDisabledTurnCount": 2,
+  "BuildingPriceMultiplier": 2.0,
+  "LandmarkPriceMultiplier": 4.0,
+  "LandTollRate": 0.5,
+  "BuildingTollRate": 0.75,
+  "LandmarkTollRate": 1.5
+}

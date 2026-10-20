@@ -1,0 +1,31 @@
+Id	Name	Price	IconIndex	ColorHex	Effect	IsActiveOnPass
+0	위그드라실의 뿌리	0	0	#FBBE28	Salary	TRUE
+1	요툰헤임 설원	50000	1	#38B6FF	Territory	FALSE
+2	우트가르드 성채	80000	2	#38B6FF	Territory	FALSE
+3	거인의 대장간	80000	3	#38B6FF	Territory	FALSE
+4	미미르의 샘	100000	24	#38B6FF	Territory	FALSE
+5	흐룽그니르의 돌산	100000	4	#38B6FF	Territory	FALSE
+6	트림의 궁전	120000	5	#38B6FF	Territory	FALSE
+7	헬라의 관문	0	6	#FBBE28	Prison	FALSE
+8	니플 헬	140000	7	#5E17EB	Territory	FALSE
+9	니플헤임 빙원	160000	8	#5E17EB	Territory	FALSE
+10	흐베르겔미르	160000	9	#5E17EB	Territory	FALSE
+11	엘리바가르 얼음 강	180000	10	#5E17EB	Territory	FALSE
+12	나스트론드	180000	3	#5E17EB	Territory	FALSE
+13	서리 거인의 협곡	200000	11	#5E17EB	Territory	FALSE
+14	니드호그의 보물 창고	0	12	#FBBE28	Treasure	FALSE
+15	알프 헤임 숲	220000	13	#7ED957	Territory	FALSE
+16	은빛 초원	240000	14	#7ED957	Territory	FALSE
+17	빛의 정원	240000	15	#7ED957	Territory	FALSE
+18	오딘의 신전	260000	16	#7ED957	Territory	FALSE
+19	요정의 샘	260000	24	#7ED957	Territory	FALSE
+20	여명의 회랑	280000	17	#7ED957	Territory	FALSE
+21	비프로스트	0	18	#FBBE28	Teleport	FALSE
+22	로키의 은신처	300000	19	#FF0000	Territory	FALSE
+23	우르드의 샘	320000	24	#FF0000	Territory	FALSE
+24	토르의 대장간	320000	20	#FF0000	Territory	FALSE
+25	오딘의 옥좌	350000	21	#FF0000	Territory	FALSE
+26	발키리 전당	350000	22	#FF0000	Territory	FALSE
+27	발할라	500000	23	#FF0000	Territory	FALSE
+28	라타토스크의 전언 	0	25	#ECD92D	GoldCard	FALSE
+29	상점	0	26	#A548FF	Shop	TRUE
